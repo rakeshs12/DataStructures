@@ -1,2 +1,5 @@
-# DataStructures
-Basic data structure programs in C++
+# DS-C++
+
+Data Structure programs in C++
+
+Programs of Array, linked lists, stack, queues, trees etc
