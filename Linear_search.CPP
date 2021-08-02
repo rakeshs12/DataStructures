@@ -20,7 +20,3 @@
  clrscr();
  int marks[]={95,93,89,82,78};
  int size=5;
- linear_search(marks,size);
- getch();
-
- }
